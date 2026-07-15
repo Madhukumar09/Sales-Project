@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analysis using SQL & Power BI
+# 🛒 E-Commerce Sales Analysis Project
 
 ## 📌 Overview
 
