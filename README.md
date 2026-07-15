@@ -10,9 +10,6 @@ SQL was used for data extraction and analysis, while Power BI was used to build 
 
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a1255482-6e47-4953-ab82-833e31e54c60" alt="Sales Analysis Dashboard" width="1000">
-</p>
 
 
 ---
