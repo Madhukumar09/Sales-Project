@@ -12,7 +12,7 @@ SQL was used for data extraction and analysis, while Power BI was used to build 
 
 
 <p align="center">
-  <img src="<img width="1307" height="737" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/f8ea8024-434e-4b46-924a-332e8cfe9c25" />
+  <img src="<img width="1307" height="737" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/cd4d8c36-9349-4dd6-ada8-5c910d33469f" />
 " alt="E-Commerce Sales Analysis Dashboard" width="100%">
 </p>
 
